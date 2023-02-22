@@ -614,7 +614,7 @@ the website, in dark theme
 /*Rotate icon, change color of titles and background*/
 .accordion-open .questions__header,
 .accordion-open .questions__content{
-  background-color: #0d0b3c;
+  background-color: #1c211f;
 }
 
 .accordion-open .questions__item-title,
