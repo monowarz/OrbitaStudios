@@ -10,4 +10,4 @@
 
 👉 Live website link - [Click here](https://orbitaos.netlify.app/)
 
-![preview img](/website.png)
+![preview img](/demo.png)
